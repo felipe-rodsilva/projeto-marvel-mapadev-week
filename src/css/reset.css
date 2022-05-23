@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+/*O arquivo reset.css serve para resetar estilos padrão que o navegador coloca, facilitando a estilização*/
