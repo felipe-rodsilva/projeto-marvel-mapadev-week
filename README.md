@@ -4,7 +4,7 @@
 
 This project was developed during the Mapa Dev Week, event held by @devemdobro. 
 
-During the event, the developer twin brothers showed us the "map": what we have to do, what we have to study, and what are the best paths to become a developer.
+During the event, the developer twin brothers showed us the "map" : what we have to do, what we have to study, and what are the best paths to become a developer.
 They also taught us several important concepts of the HTML, CSS and JavaScript languages through this project.
 
 I can say that I learned a lot at the event, because in addition to expanding my knowledge in these languages, the career tips will definitely be very useful on the journey!
