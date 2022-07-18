@@ -2,12 +2,12 @@
    Marvel Character Selection
 </h1>
 
-This project was developed during the Mapa Dev Week, event held by @devemdobro. 
+Esse projeto foi desenvolvido durante a Mapa Dev Week, evento realizado por @devemdobro. A ideia foi criar uma tela de seleção de personagens da Marvel, como em um jogo de luta.
 
-During the event, the developer twin brothers showed us the "map" : what we have to do, what we have to study, and what are the best paths to become a developer.
-They also taught us several important concepts of the HTML, CSS and JavaScript languages through this project.
+Durante o evento, os irmãos desenvolvedores nos apresentaram o "mapa dev" : o que temos que fazer, o que estudar, e quais são os melhores caminhos para nos tornarmos um desenvolvedor de sucesso.
+Nos ensinaram também vários conceitos importantes das linguagens HTML, CSS e JavaScript através deste projeto.
 
-I can say that I learned a lot at the event, because in addition to expanding my knowledge in these languages, the career tips will definitely be very useful on the journey!
+Posso dizer que aprendi muito no evento, porque para além de expandir os meus conhecimentos nestas linguagens, as dicas de carreira serão definitivamente muito úteis na jornada!
 
 https://user-images.githubusercontent.com/105990622/178052441-0754c660-cba3-4230-b053-ac15438057a3.mp4
 
