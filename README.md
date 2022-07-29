@@ -9,7 +9,7 @@ Nos ensinaram também vários conceitos importantes das linguagens HTML, CSS e J
 
 Posso dizer que aprendi muito no evento, porque para além de expandir os meus conhecimentos nestas linguagens, as dicas de carreira serão definitivamente muito úteis na jornada!
 
-https://user-images.githubusercontent.com/105990622/178052441-0754c660-cba3-4230-b053-ac15438057a3.mp4
+![projeto-marvel](https://user-images.githubusercontent.com/105990622/181688524-504363f3-62fe-4c49-80b3-a7a8d45de18e.png)
 
 This project is for study purposes, so all kinds of contributions are very welcome and appreciated! 🤝
 
