@@ -1,5 +1,5 @@
 <h1 align="center"> 
-   Marvel Character Selection
+   Marvel Character Selection 🦸
 </h1>
 
 Esse projeto foi desenvolvido durante a Mapa Dev Week, evento realizado por @devemdobro. A ideia foi criar uma tela de seleção de personagens da Marvel, como em um jogo de luta.
